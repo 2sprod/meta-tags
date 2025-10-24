@@ -1,0 +1,6 @@
+[
+  { "id": "p1", "name": "Wireless Headphones", "price": 99, "image": "https://via.placeholder.com/200" },
+  { "id": "p2", "name": "Smart Watch", "price": 129, "image": "https://via.placeholder.com/200" },
+  { "id": "p3", "name": "Gaming Mouse", "price": 59, "image": "https://via.placeholder.com/200" },
+  { "id": "p4", "name": "Mechanical Keyboard", "price": 89, "image": "https://via.placeholder.com/200" }
+]
